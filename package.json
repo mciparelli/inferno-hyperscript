@@ -1,5 +1,6 @@
 {
   "name": "inferno-hyperscript",
+  "version": "2.0.2",
   "description": "Bridging hyperscript to InfernoJS",
   "main": "index.js",
   "scripts": {
